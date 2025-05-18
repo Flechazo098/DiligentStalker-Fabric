@@ -25,6 +25,7 @@ public class DiligentStalker implements ModInitializer {
         StalkerItems.register();
         StalkerBlockEntities.register();
         StalkerCreativeModeTab.register();
+        StalkerSounds.register();
         
 
     }
